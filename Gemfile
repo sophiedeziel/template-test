@@ -43,7 +43,7 @@ gem 'bootsnap', require: false
 
 gem 'shakapacker', '7.2.3'
 
-gem 'react_on_rails', '= 13.4'
+gem 'react_on_rails', '14.0.0'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
